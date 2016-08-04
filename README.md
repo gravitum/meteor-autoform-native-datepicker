@@ -1,4 +1,4 @@
-partus:autoform-native-datepicker
+gravitum:autoform-native-datepicker
 =========================
 
 An add-on Meteor package for [aldeed:autoform](https://github.com/aldeed/meteor-autoform). Provides  input type "native-datepicker" with native date selection for android and ios,  is based on modified version of  [cordova-plugin-datepicker](https://github.com/partus/cordova-plugin-datepicker) plugin. Falls back to bootstrap-datepicker in browser. In browser, behaviour is similar to [aldeed:autoform-bs-datepicker](https://github.com/aldeed/meteor-autoform-bs-datepicker) 
@@ -20,7 +20,7 @@ $ meteor add aldeed:autoform
 In a Meteor app directory, enter:
 
 ```
-$ meteor add gravitum:native-datepicker
+$ meteor add gravitum:autoform-native-datepicke
 ```
 
 ## Usage

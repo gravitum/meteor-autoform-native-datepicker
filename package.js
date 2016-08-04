@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'partus:autoform-native-datepicker',
+  name: 'gravitum:autoform-native-datepicker',
   summary: 'Native (android,ios) datepicker input type for AutoForm with  fallback to bootstrap datetimepicker',
   version: '0.0.1',
   git: 'https://github.com/gravitum/meteor-native-datepicker.git'
